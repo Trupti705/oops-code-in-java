@@ -1,0 +1,8 @@
+Add two integers: 40
+Add three integers: 132
+Add two doubles: 10.5
+Name: Trupti, Age: 20
+Name: Priti, Age: 21
+Name: Priti, Age: 21
+Student s4 details (reference to s2):
+Name: Priti, Age: 21
