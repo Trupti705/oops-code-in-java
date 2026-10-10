@@ -1,0 +1,8 @@
+Arithmetic Promotion Result: 60
+x + y = 45
+x - y = 15
+x * y = 450
+x / y = 2
+x % y = 0
+Addition: 25
+Multiplication: 60
